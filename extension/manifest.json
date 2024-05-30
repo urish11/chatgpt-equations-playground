@@ -30,7 +30,7 @@
     },
     {
       "css": ["./content.css"],
-      "matches": ["*://chat.openai.com/*", "*://chatgpt.com/*"],
+      "matches": ["*platform.openai.com*", "*://chatgpt.com/*"],
       "run_at": "document_start"
     }
   ]
